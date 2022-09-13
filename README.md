@@ -14,7 +14,7 @@ from osgeo import gdal <br/>
 import matplotlib.pyplot as plt <br/>
 <br/>
 <br/>
-x = gdal.Open('file_address').ReadAsArray()<br/>
+x = gdal.Open('Layerstacked Raster Image Address').ReadAsArray()<br/>
 cbsi_ndvi = cbsi.ndvi(f)<br/>
 <br/>
 plt.imshow(cbsi_ndvi)
