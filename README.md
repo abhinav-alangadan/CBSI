@@ -8,7 +8,7 @@ pip install cbsi
 
 # Usage
 
-<b>Refer to <a href = "https://github.com/abhinav-alangadan/CBSI/blob/main/cbsi.ipynb>cbsi.ipynb</a></b>
+<b>Refer to <a href = "https://github.com/abhinav-alangadan/CBSI/blob/main/cbsi.ipynb">cbsi.ipynb</a></b>
 
 import cbsi <br/>
 import numpy as np <br/>
